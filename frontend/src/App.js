@@ -20,9 +20,9 @@ function App() {
 
                     {/* Route Configuration */}
                     <Routes>
-                        <Route exact path="/" element={Home} />
-                        <Route path="/register" element={Register} />
-                        <Route path="/login" element={Login} />
+                        <Route exact path="/" element={<Home />} />
+                        <Route path="/register" element={<Register />} />
+                        <Route path="/login" element={<Login />} />
                     </Routes>
                 </header>
             </div>

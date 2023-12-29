@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca41a331-c120-4e2f-ba30-1e515782f274" name="Changes" comment="MongoDB connection success">
-      <change afterPath="$PROJECT_DIR$/frontend/src/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="ca41a331-c120-4e2f-ba30-1e515782f274" name="Changes" comment="MongoDB connection success" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703760310953</updated>
       <workItem from="1703760312088" duration="13635000" />
-      <workItem from="1703840002653" duration="3246000" />
+      <workItem from="1703840002653" duration="3556000" />
     </task>
     <task id="LOCAL-00001" summary="MongoDB connection success">
       <option name="closed" value="true" />
