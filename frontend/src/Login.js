@@ -1,3 +1,4 @@
+// Login.js
 import React, { useState } from 'react';
 
 const Login = () => {
@@ -16,8 +17,11 @@ const Login = () => {
         const data = await response.json();
         if (response.ok) {
             console.log('Login successful:', data);
-            // Perform any actions on successful login, like redirecting to a different page
+            localStorage.setItem('isLoggedIn', 'true');
+            // Redirect to user portal
+            window.location.href = '/portal';
         } else {
+            const data = await response.json();
             console.error('Login failed:', data.message);
         }
     };
